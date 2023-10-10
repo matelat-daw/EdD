@@ -1,0 +1,39 @@
+.red
+{
+    color: red;
+}
+
+.green
+{
+    color: green;
+}
+
+.blue
+{
+    color: blue;
+}
+
+.black
+{
+    color: black;
+}
+
+.magenta
+{
+    color: magenta;
+}
+
+.cyan
+{
+    color: cyan;
+}
+
+.align
+{
+    text-align: center;
+}
+
+input, label
+{
+    font-size: 1.25rem;
+}
