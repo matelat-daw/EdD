@@ -15,7 +15,7 @@ _start:
 	mov edx,helloLen     ; Tamaño de la Cadena a Mostrar. Se Carga en el Registro del Procesador EDX
 	int 80h              ; Llama al Kernel para Ejecutar la Función write en la Salida Estandar. Llama a la Interrupción 80.
 
-	; Terminate program
+	; Final del Programa
 	mov eax,1            ; 'exit' Llamada del sistema = 1 (Salir) Se Carga en el Registro del Procesador EAX.
 	mov ebx,0            ; Si Llegó Hasta Aquí, Sale con Código de Error 0. Se Carga en el Registro del Procesador EBX.
 	int 80h              ; Llama al Kernel para Salir. Kernel es el Núcleo del Sistema Operativo. Llama a la Interrupción 80.

@@ -5,7 +5,7 @@ public class Main // Nombre de la Clase Principal.
 {
     public static void main(String[] args) // Las Aplicaciones en Java Siempre Tienen un Metodo Publico y Estático que no Devuelve Ningún Valor (void) llamado main, que Puede Recibir Parametros Tipo Array de Cadenas de Texto.
     {
-        System.out.println("Voy a Convertirme en un Gran Programador(o_o)!");
+        System.out.println("Voy a Convertirme en un Gran Programador(o_o)!"); // Muestra en Pantalla lo que Está Entre Parentesis y Entre Comillas.
     }
 }
 
