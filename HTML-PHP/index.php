@@ -1,4 +1,5 @@
 <?php
+// Para Ejecutar Código Fuente de PHP hace falta un servidor WEB/HTTP con el Modulo PHP habilitado en Linux El Servidor Apache viene Instaldo con el Módulo de PHP ya Activado.
 include "includes/header.php";
 ?>
 
@@ -25,4 +26,5 @@ include "includes/header.php";
 
 <?php
 include "includes/footer.html";
+// Para Acceder al Servidor se Hace a Través del Navegador en la dirección Interna 127.0.0.1 ó con el nombre del Host local: localhost. El Servidor Interpreta el Script PHP y lo Ejecuta, PHP en su Inicio era del Paradigma de la Programación Estructurada, hoy en Día su Paradigma es Orientado a Objetos, Aunque Soporta Ambos Paradigmas.
 ?>
