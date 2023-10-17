@@ -20,4 +20,4 @@ _start:
 	mov ebx,0            ; Si Llegó Hasta Aquí, Sale con Código de Error 0. Se Carga en el Registro del Procesador EBX.
 	int 80h              ; Llama al Kernel para Salir. Kernel es el Núcleo del Sistema Operativo. Llama a la Interrupción 80.
 	
-;	Este Código Fuente se Compila con: nasm -f elf64 main.asm -o main.o && ld main.o -o main
+;	Este Código Fuente se Compila con: nasm -f elf64 main.asm -o main.o && ld main.o -o main yu se Ejecuta con: ./main

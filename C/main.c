@@ -7,4 +7,4 @@ int main() // Todos los Programas en C Tienen la Función Principal int main()
 	printf ("Voy a Convertirme en un Gran Programador(o_o)!\n"); // Printf Muestra en Pantalla el Texto que Está Entre Parentesis y Entre Comillas, \n es un salto de línea.
 }
 
-// Este Código Fuente se compila con: gcc -o main main.c
+// Este Código Fuente se compila con: gcc -o main main.c y se Ejecuta con: ./main

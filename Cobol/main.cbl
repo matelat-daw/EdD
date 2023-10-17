@@ -9,4 +9,4 @@ PROCEDURE DIVISION.
 *> En la Procedure Division Está el Código, Display Muestra por Pantalla lo que Está Entre Comillas y Hace Automaticamente un Salto de Línea al Final.
 *> Stop Run termina la Ejecución del Programa.
 
-*> Este Código Fuente se Compila con: cobc -free -x -o main main.cbl
+*> Este Código Fuente se Compila con: cobc -free -x -o main main.cbl y se Ejecuta con: ./main

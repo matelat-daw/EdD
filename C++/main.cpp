@@ -7,4 +7,4 @@ int main() { // Todos los Programas en C++ de Consola Tienen la Función Princip
     return 0; // Retorna 0, El programa ha funcionado Correctamente.
 }
 
-// Este Código Fuente se compila con: g++ -o main main.cpp
+// Este Código Fuente se compila con: g++ -o main main.cpp y se Ejecuta con: ./main

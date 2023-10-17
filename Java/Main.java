@@ -9,4 +9,4 @@ public class Main // Nombre de la Clase Principal.
     }
 }
 
-// Para ejecutar el Código Fuente se Usa: javac Main.java, para Hacer una Compilación Intermedia y se Ejecuta con java Main Para Interpretarlo.
+// Para ejecutar el Código Fuente se Usa: javac Main.java, para Hacer una Compilación Intermedia y se Ejecuta con: java Main
