@@ -1,0 +1,5 @@
+print ("¿Qué tal, ¿cómo te llamas?: ", end="")
+name = input()
+print ("Hola! " + name + " Cuantos Años Tienes?: ", end="")
+age = input()
+print ("De Acuerdo, Te Llamas " + name + " y Tienes " + edad + " Años de Edad.")
