@@ -1,5 +1,8 @@
 using System;
 
+// mcs main.cs Compila el Código.
+// mono main.exe Ejecuta el Código.
+
 class HolaUser
 {
     static void Main(string[] args)
